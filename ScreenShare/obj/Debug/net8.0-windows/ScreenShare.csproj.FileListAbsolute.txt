@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareClient.g.cs
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShareServer.g.cs
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare_MarkupCompile.cache
+C:\Users\hp\source\repos\ScreenShare\ScreenShare\obj\Debug\net8.0-windows\ScreenShare_MarkupCompile.lref
